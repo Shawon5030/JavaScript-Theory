@@ -2,4 +2,6 @@
 
 
 
-### Introduction to JavaScr
+### Introduction to JavaScript
+
+JavaS
