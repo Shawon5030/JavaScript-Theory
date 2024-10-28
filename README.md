@@ -4,4 +4,4 @@
 
 ### Introduction to JavaScript
 
-JavaS
+JavaScript, oft
