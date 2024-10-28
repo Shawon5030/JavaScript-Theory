@@ -4,4 +4,4 @@
 
 ### Introduction to JavaScript
 
-JavaScript, often abbreviated as JS
+JavaScript, often abbreviated as JS, is a dyn
