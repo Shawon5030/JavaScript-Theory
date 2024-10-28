@@ -4,4 +4,4 @@
 
 ### Introduction to JavaScript
 
-JavaScript, often abbreviated as JS, is a dyn
+JavaScript, often abbreviated as JS, is a dynamic, high
