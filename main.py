@@ -62,7 +62,7 @@ text_to_paste = """
 # Loop through the text in chunks of 10 characters
 for i in range(0, len(text_to_paste), 10):
     # Get the next 10 characters
-    chunk = text_to_paste[i:i+10]
+    chunk = text_to_paste[i:i+50]
     # Type the chunk
     pyautogui.typewrite(chunk)
     # Wait 5 seconds before typing the next chunk
