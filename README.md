@@ -4,4 +4,4 @@
 
 ### Introduction to JavaScript
 
-JavaScript, often abbreviated as JS, is a dynamic, high-level programming l
+JavaScript, often abbreviated as JS, is a dynamic, high-level programming language th
