@@ -4,4 +4,4 @@
 
 ### Introduction to JavaScript
 
-JavaScript, often abbreviated as JS, is a dynamic, high-level programming language that plays a critical role in web developm
+JavaScript, often abbreviated as JS, is a dynamic, high-level programming language that plays a critical role in web development. Creat
