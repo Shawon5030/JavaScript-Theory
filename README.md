@@ -4,4 +4,4 @@
 
 ### Introduction to JavaScript
 
-JavaScript, oft
+JavaScript, often abbrevi
